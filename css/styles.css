@@ -6,17 +6,11 @@ h1{
 }
 
 .logo-name{
-    float: left;
-    margin-left: 80px;
-    position: absolute;
-    top: 30px;
+
 }
 
 .logo-desc{
-    float: left;
-    margin-left: 80px;
-    position: absolute;
-    top: 70px
+
 }
 
 h2{
@@ -33,17 +27,13 @@ h2{
 }
 
 .top-container{
-    background-color:#ffdecf;
-    position: relative;
-    height: auto;
-    padding: 100px 100px;
+
 }
 
 .middle-container{
-    background-color:#ba7967;
+
 }
 
 .bottom-container{
-    background-color: #5e6f64;
-    position: relative;
+
 }
